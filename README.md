@@ -225,8 +225,8 @@ pip install pandas numpy matplotlib seaborn tensorflow keras scikit-learn
 
 
 ### Prediction Result
+![Screenshot 2025-07-10 111131](https://github.com/user-attachments/assets/fbbdf29e-1c1a-43ab-8bc8-30a9469556eb)
 
-![Predicted-Result](https://github.com/user-attachments/assets/c8489c34-c581-4f61-8b10-8b0d19107fa4)
 
 &nbsp;
 <a name="limitations"></a>
